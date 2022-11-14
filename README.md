@@ -1,10 +1,11 @@
-# 1 Web 3.0 creater 
+# Aleksandr Grishaev 
+Founder of WEB 3.0 projects
 
-//Peaker 
-/Web 3.0 productivity app
+## Peaker.app 
+Web 3.0 productivity app
 
-//Everest
-/Agile friendly life managment system
+## Everest
+Agile friendly life managment system
 
-//Yeti on Everest 
-/NFT collection and crypto investment 
+## Yeti on the Everest 
+NFT collection and crypto investment 
